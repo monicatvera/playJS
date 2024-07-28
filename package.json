@@ -7,13 +7,16 @@
     "url": "https://github.com/monicatvera/playJS.git"
   },
   "version": "0.0.1",
+  "publisher": "PlayJS",
   "engines": {
     "vscode": "^1.91.0"
   },
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onCommand:playjs.runPlayJS"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
