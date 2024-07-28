@@ -1,7 +1,11 @@
 {
   "name": "playjs",
   "displayName": "playJS",
-  "description": "Run and test javascript code in real time",
+  "description": "A powerful JavaScript playground integrated into VS Code.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monicatvera/playJS.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.91.0"
