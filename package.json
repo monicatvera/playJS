@@ -1,6 +1,6 @@
 {
-  "name": "playjs",
-  "displayName": "playJS",
+  "name": "Playjs",
+  "displayName": "PlayJS",
   "description": "A powerful JavaScript playground integrated into VS Code.",
   "repository": {
     "type": "git",
@@ -8,6 +8,7 @@
   },
   "version": "0.0.1",
   "publisher": "PlayJS",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.91.0"
   },
